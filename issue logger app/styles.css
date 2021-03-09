@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700&display=swap');
+
+body {
+	background-color: #f6f6f6;
+	font-family: 'Roboto', sans-serif;
+}
+
+.title-span {
+	color: #337ab7;
+}
+
+.span-one {
+	color: #02adc9;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
+
+h3 {
+	font-weight: bold;
+	color: #fff;
+	font-size: 30px;
+	padding-top: 0;
+}
+
+.jumbotron {
+	background-color: #02adc9;
+	width: 70%;
+	margin: 20px auto 20px auto;
+	padding-top: 10px;
+}
+
+.form-group {
+	font-size: 1.5rem;
+}
+
+.btn.btn-primary.red {
+	color: red;
+}
+
+.btn.btn-primary.orange {
+	color: orange;
+}
+
+.btn.btn-primary.yellow {
+	color: yellow;
+}
+
+.btn.btn-primary.btn-block {
+	font-size: 1.5rem;
+	margin-top: 10px;
+}
+
+.label.label-info {
+	background-color: #02adc9;
+}
+
+.label label-info.closed {
+	background-color: #f0ad4e;
+}
+
+.glyphicon.glyphicon-time {
+	font-size: 20px;
+}
+
+.priority-input {
+	padding: 0 2rem 0 0;
+}
+
+.priority-radio {
+	cursor: pointer;
+	padding: 0 1.5rem;
+}
+
+.description {
+	font-size: 14px;
+	overflow: hidden;
+	word-wrap: break-word;
+}
+
+.id-style {
+	font-weight: 700;
+}
+
+.glyphicon.glyphicon-time {
+	margin-right: 7px;
+	letter-spacing: normal;
+	font-size: 20px;
+	color: #337ab7;
+}
+
+.glyphicon.glyphicon-user {
+	letter-spacing: normal;
+	font-size: 20px;
+	color: #337ab7;
+}
+
+.priority-assigned {
+	color: #337ab7;
+	font-weight: 900;
+}
+
+.btn.btn-warning {
+	margin-right: 10px;
+}
+
+.status-closed {
+	background-color: yellow;
+}
+
+.close-delete {
+	font-size: 18px;
+}
+
+.row {
+	border-style: solid;
+	border-color: #02adc9;
+	border-width: 1px 2px;
+	padding: 20px;
+}
+
+.description-title {
+	font-weight: 700;
+	color: #337ab7;
+}
+
+.created {
+	font-weight: 700;
+	color: #337ab7;
+}
+
+input [type='radio'] {
+	margin-right: 10px;
+}
